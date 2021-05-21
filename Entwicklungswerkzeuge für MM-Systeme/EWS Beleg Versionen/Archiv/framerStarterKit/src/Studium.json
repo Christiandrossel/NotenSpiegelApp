@@ -1,0 +1,446 @@
+{
+	"studium" : [
+		{
+			"Name" : "Semester 1",
+			"gesCr" : 28,
+			"anzModul" : 8,
+			"Module" : [
+			{
+				"Name" : "Algebra und höhere Mathematik I",
+                "Credits" : 4,
+				"nSP" : 4.0,
+				"pSP": 1.0,
+				"vSP": 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+			},
+			{
+                "Name" : "Betriebssysteme",
+                "Credits" : 5,
+				"nSP" : 3.7,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Digitale Bildbearbeitung",
+                "Credits" : 3,
+				"nSP" : 1.0,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Elektronik für Medieninformatiker",
+                "Credits" : 3,
+				"nSP" : 3.3,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Englisch",
+                "Credits" : 3,
+				"nSP" : 4.0,
+				"pSP" : 0.5,
+				"vSP" : 1,
+				"nAPL" : 2.0,
+				"pAPL" : 0.5,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Grundlagen der Gestaltung",
+                "Credits" : 0,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Grundlagen der Informatik I",
+                "Credits" : 5,
+				"nSP" : 2.0,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Programmierung I",
+                "Credits" : 5,
+				"nSP" : 2.7,
+				"pSP" : 0.7,
+				"vSP" : 1,
+				"nAPL" : 1.0,
+				"pAPL" : 0.3,
+				"vAPL" : 1
+			}
+			]
+		},
+		{
+			"Name" : "Semester 2",
+			"gesCr" : 32,
+			"anzModul" : 8,
+			"Module" : [
+			{
+                "Name" : "Algebra und höhere Mathematik II",
+                "Credits" : 3,
+				"nSP" : 5.0,
+				"pSP" : 1.0,
+				"vSP" : 2,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Betriebswirtschaftslehre",
+                "Credits" : 2,
+				"nSP" : 3.7,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Datenbankensysteme I",
+                "Credits" : 4,
+				"nSP" : 2.3,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Digitale Signalverarbeitung",
+                "Credits" : 4,
+				"nSP" : 3.7,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Englisch",
+                "Credits" : 3,
+				"nSP" : 4.0,
+				"pSP" : 0.5,
+				"vSP" : 1,
+				"nAPL" : 2.0,
+				"pAPL" : 0.5,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Grundlagen der Gestaltung",
+                "Credits" : 4,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : 1.0,
+				"pAPL" : 1.0,
+				"vAPL" : 1
+            },
+			{
+                "Name" : "Grundlagen der Informatik II",
+                "Credits" : 4,
+				"nSP" : 2.0,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Konstruktive Geometrie",
+                "Credits" : 3,
+				"nSP" : 3.0,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Programmierung II",
+                "Credits" : 5,
+				"nSP" : 3.3,
+				"pSP" : 0.7,
+				"vSP" : 1,
+				"nAPL" : 1.0,
+				"pAPL" : 0.3,
+				"vAPL" : 1
+			}
+			]
+		},
+		{
+			"Name" : "Semester 3",
+			"gesCr" : 29,
+			"anzModul" : 6,
+			"Module" : [
+			{
+                "Name" : "Computergrafik/Visualisierung I",
+                "Credits" : 6,
+				"nSP" : 3.0,
+				"pSP" : 0.7,
+				"vSP" : 2,
+				"nAPL" : 3.0,
+				"pAPL" : 0.3,
+				"vAPL" : 1
+            },
+			{
+                "Name" : "Datenbankensysteme II",
+                "Credits" : 5,
+				"nSP" : 2.0,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Rechnerarchitektur",
+                "Credits" : 4,
+				"nSP" : 4.0,
+				"pSP" : 1.0,
+				"vSP" : 2,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Rechnernetze/Kommunikationssysteme",
+                "Credits" : 5,
+				"nSP" : 5.0,
+				"pSP" : 0.7,
+				"vSP" : 2,
+				"nAPL" : 2.7,
+				"pAPL" : 0.3,
+				"vAPL" : 1
+            },
+			{
+                "Name" : "Programmierung III",
+                "Credits" : 5,
+				"nSP" : 4.0,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Software Engineering I",
+                "Credits" : 4,
+				"nSP" : 2.7,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+			}
+			]
+		},
+		{
+			"Name" : "Semester 4",
+			"gesCr" : 31,
+			"anzModul" : 8,
+			"Module" : [
+			{
+                "Name" : "Audio- und Videosysteme I",
+                "Credits" : 3,
+				"nSP" : 5.0,
+				"pSP" : 1.0,
+				"vSP" : 2,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Computergrafik/Visualisierung II",
+                "Credits" : 4,
+				"nSP" : 5.0,
+				"pSP" : 0.7,
+				"vSP" : 1,
+				"nAPL" : 1.0,
+				"pAPL" : 0.3,
+				"vAPL" : 1
+            },
+			{
+                "Name" : "Entwicklungswerkzeuge f. multimediale Systeme",
+                "Credits" : 5,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : 1.7,
+				"pAPL" : 1.0,
+				"vAPL" : 1
+            },
+			{
+                "Name" : "Gestaltung interaktiver Systeme",
+                "Credits" : 3,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : 3.3,
+				"pAPL" : 1.0,
+				"vAPL" : 1
+            },
+			{
+                "Name" : "Internet-Technologien I",
+                "Credits" : 3,
+				"nSP" : 5.0,
+				"pSP" : 0.7,
+				"vSP" : 2,
+				"nAPL" : 1.0,
+				"pAPL" : 0.3,
+				"vAPL" : 1
+            },
+			{
+                "Name" : "Medienproduktion",
+                "Credits" : 4,
+				"nSP" : 5.0,
+				"pSP" : 0.6,
+				"vSP" : 1,
+				"nAPL" : 1.4,
+				"pAPL" : 0.4,
+				"vAPL" : 1
+            },
+			{
+                "Name" : "Software Engineering II",
+                "Credits" : 5,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : 1.7,
+				"pAPL" : 1.0,
+				"vAPL" : 1
+            },
+			{
+                "Name" : "Wahlpflichtmodul I",
+                "Credits" : 4,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : 1.3,
+				"pAPL" : 1.0,
+				"vAPL" : 1
+			}
+			]
+		},
+		{
+			"Name" : "Semester 5",
+			"gesCr" : 30,
+			"anzModul" : 7,
+			"Module" : [
+			{
+                "Name" : "Audio- und Videosysteme II",
+                "Credits" : 4,
+				"nSP" : 5.0,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Audio-, Video-, Grafikprogrammierung",
+                "Credits" : 5,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : null,
+				"pAPL" : 1.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Beleuchtung und Rendering",
+                "Credits" : 4,
+				"nSP" : 5.0,
+				"pSP" : 0.7,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.3,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Computeranimation",
+                "Credits" : 5,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : 5.0,
+				"pAPL" : 1.0,
+				"vAPL" : 1
+            },
+			{
+                "Name" : "Informatikrecht",
+                "Credits" : 2,
+				"nSP" : 5.0,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Internet-Technologien II",
+                "Credits" : 5,
+				"nSP" : null,
+				"pSP" : 1.0,
+				"vSP" : 0,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0
+            },
+			{
+                "Name" : "Wahlpflichtmodul II",
+                "Credits" : 5,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : 5.0,
+				"pAPL" : 1.0,
+				"vAPL" : 1
+			}
+			]
+		},
+		{ 
+			"Name" : "Semester 6",
+			"gesCr" : 30,
+			"anzModul" : 2,
+			"Module" : [
+			{
+                "Name" : "Praxisprojekt",
+                "Credits" : 18,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : null,
+				"pAPL" : 1.0,
+				"vAPL" : 0
+            },
+            {
+				"Name" : "Bachelorarbeit",
+                "Credits" : 12,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : null,
+				"pAPL" : 1.0,
+				"vAPL" : 0
+            }
+			]
+		}
+	]
+}

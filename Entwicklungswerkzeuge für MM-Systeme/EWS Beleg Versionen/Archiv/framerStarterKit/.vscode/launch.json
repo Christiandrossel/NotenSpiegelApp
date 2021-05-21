@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome",
+            "webRoot": "${workspaceRoot}",
+            "port": 9222,
+            "sourceMaps": true,
+            "file": "${workspaceRoot}/index.html"
+        }
+    ],
+    "compounds": []
+}

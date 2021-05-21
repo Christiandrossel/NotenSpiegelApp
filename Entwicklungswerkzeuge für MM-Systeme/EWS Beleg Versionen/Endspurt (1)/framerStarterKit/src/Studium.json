@@ -1,0 +1,526 @@
+{
+	"studium" : [
+		{
+			"Name" : "Semester 1  >>",
+			"gesCr" : 28,
+			"anzModul" : 8,
+			"Module" : [
+			{
+				"Name" : "Algebra und höhere Mathematik I",
+                "Credits" : 4,
+				"nSP" : 4.0,
+				"pSP": 1.0,
+				"vSP": 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: 4.0 (100%)",
+				"Versuche": ""
+			},
+			{
+                "Name" : "Betriebssysteme",
+                "Credits" : 5,
+				"nSP" : 3.7,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: 3.7 (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Digitale Bildbearbeitung",
+                "Credits" : 3,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : 1.0,
+				"pAPL" : 1.0,
+				"vAPL" : 1,
+				"myString": "APL: 1.0 (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Elektronik für Medieninformatiker",
+                "Credits" : 3,
+				"nSP" : 3.3,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: 3.3 (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Englisch",
+                "Credits" : 3,
+				"nSP" : 4.0,
+				"pSP" : 0.5,
+				"vSP" : 1,
+				"nAPL" : 2.0,
+				"pAPL" : 0.5,
+				"vAPL" : 0,
+				"myString": "SP: 4.0 (50%) \nAPL: 2.0 (50%) \nGesamt: 3.0",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Grundlagen der Gestaltung",
+                "Credits" : 0,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "Bestanden",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Grundlagen der Informatik I",
+                "Credits" : 5,
+				"nSP" : 2.0,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: 2.0 (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Programmierung I",
+                "Credits" : 5,
+				"nSP" : 2.7,
+				"pSP" : 0.7,
+				"vSP" : 1,
+				"nAPL" : 1.0,
+				"pAPL" : 0.3,
+				"vAPL" : 1,
+				"myString": "SP: 2.7 (70%) \nAPL: 1.0 (30%) \nGesamt: 2.2",
+				"Versuche": ""
+			}
+			]
+		},
+		{
+			"Name" : "<<  Semester 2  >>",
+			"gesCr" : 32,
+			"anzModul" : 8,
+			"Module" : [
+			{
+                "Name" : "Algebra und höhere Mathematik II",
+                "Credits" : 3,
+				"nSP" : 5.0,
+				"pSP" : 1.0,
+				"vSP" : 2,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: 5.0 (100%)\n",				
+				"Versuche": "2. Wiederholung !"
+            },
+			{
+                "Name" : "Betriebswirt- \nschaftslehre",
+                "Credits" : 2,
+				"nSP" : 3.7,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: 3.7 (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Datenbanken- \nsysteme I",
+                "Credits" : 4,
+				"nSP" : 2.3,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: 2.3 (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Digitale Signalverarbeitung",
+                "Credits" : 4,
+				"nSP" : 3.7,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: 3.7 (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Englisch",
+                "Credits" : 3,
+				"nSP" : 4.0,
+				"pSP" : 0.5,
+				"vSP" : 1,
+				"nAPL" : 2.0,
+				"pAPL" : 0.5,
+				"vAPL" : 0,
+				"myString": "SP: 4.0 (50%) \nAPL: 2.0 (50%) \nGesamt: 3.0",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Grundlagen der Gestaltung",
+                "Credits" : 4,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : 1.0,
+				"pAPL" : 1.0,
+				"vAPL" : 1,
+				"myString": "APL: 1.0 (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Grundlagen der Informatik II",
+                "Credits" : 4,
+				"nSP" : 2.0,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: 2.0 (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Konstruktive Geometrie",
+                "Credits" : 3,
+				"nSP" : 3.0,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: 3.0 (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Programmierung II",
+                "Credits" : 5,
+				"nSP" : 3.3,
+				"pSP" : 0.7,
+				"vSP" : 1,
+				"nAPL" : 1.0,
+				"pAPL" : 0.3,
+				"vAPL" : 1,
+				"myString": "SP: 3.3 (70%) \nAPL: 1.0 (30%) \nGesamt: 2.6",
+				"Versuche": ""
+			}
+			]
+		},
+		{
+			"Name" : "<<  Semester 3  >>",
+			"gesCr" : 29,
+			"anzModul" : 6,
+			"Module" : [
+			{
+                "Name" : "Computergrafik/\nVisualisierung I",
+                "Credits" : 6,
+				"nSP" : 3.0,
+				"pSP" : 0.7,
+				"vSP" : 2,
+				"nAPL" : 3.0,
+				"pAPL" : 0.3,
+				"vAPL" : 1,
+				"myString": "SP: 3.0 (70%) \nAPL: 3.0 (30%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Datenbanken-\nsysteme II",
+                "Credits" : 5,
+				"nSP" : 2.0,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: 2.0 (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Rechnerarchitektur",
+                "Credits" : 4,
+				"nSP" : 4.0,
+				"pSP" : 1.0,
+				"vSP" : 2,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: 4.0 (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Rechnernetze/\nKommunikations-\nsysteme",
+                "Credits" : 5,
+				"nSP" : 5.0,
+				"pSP" : 0.7,
+				"vSP" : 2,
+				"nAPL" : 2.7,
+				"pAPL" : 0.3,
+				"vAPL" : 1,
+				"myString": "SP: 5.0 (70%) \nAPL: 2.7 (30%)",
+				"Versuche": "2. Wiederholung !"
+            },
+			{
+                "Name" : "Programmierung III",
+                "Credits" : 5,
+				"nSP" : 4.0,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: 4.0 (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Software \nEngineering I",
+                "Credits" : 4,
+				"nSP" : 2.7,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: 2.3 (100%)",
+				"Versuche": ""
+			}
+			]
+		},
+		{
+			"Name" : "<<  Semester 4  >>",
+			"gesCr" : 31,
+			"anzModul" : 8,
+			"Module" : [
+			{
+                "Name" : "Audio- und Videosysteme I",
+                "Credits" : 3,
+				"nSP" : 5.0,
+				"pSP" : 1.0,
+				"vSP" : 2,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: 5.0 (100%)",
+				"Versuche": "2. Wiederholung !"
+            },
+			{
+                "Name" : "Computergrafik/\nVisualisierung II",
+                "Credits" : 4,
+				"nSP" : 5.0,
+				"pSP" : 0.7,
+				"vSP" : 1,
+				"nAPL" : 1.0,
+				"pAPL" : 0.3,
+				"vAPL" : 1,
+				"myString": "SP: 5.0 (70%) \nAPL: 1.0 (30%)",
+				"Versuche": "1. Wiederholung !"
+            },
+			{
+                "Name" : "Entwicklungswerk-\nzeuge f. multimediale Systeme",
+                "Credits" : 5,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : 1.7,
+				"pAPL" : 1.0,
+				"vAPL" : 1,
+				"myString": "APL: 1.7 (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Gestaltung interaktiver Systeme",
+                "Credits" : 3,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : 3.3,
+				"pAPL" : 1.0,
+				"vAPL" : 1,
+				"myString": "APL: 3.3 (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Internet-\nTechnologien I",
+                "Credits" : 3,
+				"nSP" : 5.0,
+				"pSP" : 0.7,
+				"vSP" : 2,
+				"nAPL" : 1.0,
+				"pAPL" : 0.3,
+				"vAPL" : 1,
+				"myString": "SP: 5.0 (70%) \nAPL: 1.0 (30%)",
+				"Versuche": "2. Wiederholung !"
+            },
+			{
+                "Name" : "Medienproduktion",
+                "Credits" : 4,
+				"nSP" : 5.0,
+				"pSP" : 0.6,
+				"vSP" : 1,
+				"nAPL" : 1.3,
+				"pAPL" : 0.4,
+				"vAPL" : 1,
+				"myString": "SP: 5.0 (60%) \nAPL: 1.3 (40%)",
+				"Versuche": "1. Wiederholung !"
+            },
+			{
+                "Name" : "Software \nEngineering II",
+                "Credits" : 5,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : 1.7,
+				"pAPL" : 1.0,
+				"vAPL" : 1,
+				"myString": "APL: 1.7 (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Wahlpflichtmodul I",
+                "Credits" : 4,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : 1.3,
+				"pAPL" : 1.0,
+				"vAPL" : 1,
+				"myString": "APL: 1.3 (100%)",
+				"Versuche": ""
+			}
+			]
+		},
+		{
+			"Name" : "<<  Semester 5  >>",
+			"gesCr" : 30,
+			"anzModul" : 7,
+			"Module" : [
+			{
+                "Name" : "Audio- und Videosysteme II",
+                "Credits" : 4,
+				"nSP" : 5.0,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: 5.0 (100%)",
+				"Versuche": "2. Wiederholung !"
+            },
+			{
+                "Name" : "Audio-, Video-, Grafik-\nprogrammierung",
+                "Credits" : 5,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : null,
+				"pAPL" : 1.0,
+				"vAPL" : 0,
+				"myString": "APL: ausstehend (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Beleuchtung und Rendering",
+                "Credits" : 4,
+				"nSP" : 5.0,
+				"pSP" : 0.7,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.3,
+				"vAPL" : 0,
+				"myString": "SP: 5.0 (70%) \nAPL: ausstehend (30%)",
+				"Versuche": "1. Wiederholung !"
+            },
+			{
+                "Name" : "Computeranimation",
+                "Credits" : 5,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : 5.0,
+				"pAPL" : 1.0,
+				"vAPL" : 1,
+				"myString": "APL: 5.0 (100%)",
+				"Versuche": "1. Wiederholung !"
+            },
+			{
+                "Name" : "Informatikrecht",
+                "Credits" : 2,
+				"nSP" : 5.0,
+				"pSP" : 1.0,
+				"vSP" : 1,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: 5.0 (100%)",
+				"Versuche": "1. Wiederholung !"
+            },
+			{
+                "Name" : "Internet-\nTechnologien II",
+                "Credits" : 5,
+				"nSP" : null,
+				"pSP" : 1.0,
+				"vSP" : 0,
+				"nAPL" : null,
+				"pAPL" : 0.0,
+				"vAPL" : 0,
+				"myString": "SP: ausstehend (100%)",
+				"Versuche": ""
+            },
+			{
+                "Name" : "Wahlpflichtmodul II",
+                "Credits" : 5,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : 5.0,
+				"pAPL" : 1.0,
+				"vAPL" : 1,
+				"myString": "APL: 5.0 (100%)",
+				"Versuche": "1. Wiederholung !"
+			}
+			]
+		},
+		{ 
+			"Name" : "<<  Semester 6",
+			"gesCr" : 30,
+			"anzModul" : 2,
+			"Module" : [
+			{
+                "Name" : "Praxisprojekt",
+                "Credits" : 18,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : null,
+				"pAPL" : 1.0,
+				"vAPL" : 0,
+				"myString": "Ausstehend",
+				"Versuche": ""
+            },
+            {
+				"Name" : "Bachelorarbeit",
+                "Credits" : 12,
+				"nSP" : null,
+				"pSP" : 0.0,
+				"vSP" : 0,
+				"nAPL" : null,
+				"pAPL" : 1.0,
+				"vAPL" : 0,
+				"myString": "Ausstehend",
+				"Versuche": ""
+            }
+			]
+		}
+	]
+}
